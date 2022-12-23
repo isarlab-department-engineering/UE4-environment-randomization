@@ -2,7 +2,7 @@
 UE4 blueprint for indoor environment randomization. Rooms and corridors shapes, walls and floor textures, furniture can be easily randomized at the beginning of the experiment or at run-time.
 
 ### Blueprint
-Download the blueprint `DomainRandomizer` and move it into you `Content` folder (in your UE4 project).
+Download the blueprint `DomainRandomizer.uasset` and move it into you `Content` folder (in your UE4 project).
 
 ### Event Graph
 Everytime a new experiment starts (i.e., when Play is pressed), the `RandomizeAll` function is called. If `Debug Mode` and `Enable Tick` are both set to True, `RandomizeAll` is called every tick. `Debug Mode` and `Enable Tick` can be enabled or disabled inside the Blueprint.
