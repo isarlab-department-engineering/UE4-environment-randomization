@@ -73,7 +73,13 @@ This functions randomizes the intensity and the orientation of the light.
 
 ### Usage
 1) Open the UE4 project and drag the blueprint from the `Content` folder into an UE4 empty environment. 
-2) Rename it `DomainRandomizer_PORT` (e.g., `DomainRandomizer_9734`).
+2) Rename it `DomainRandomizer_PORT` (e.g., `DomainRandomizer_9734`) (<ins>to be checked if really required</ins>).
 3) From the menu, some parameters may be changed. For modifying the other parameters, the meshes or the materials, access the blueprint (double click) > `Components` > `DomainRandomizer (self)`.
 4) Set the parameter `Directional Light` to have the reference to the environment `Light Source`.
 5) Blueprint is ready: press Play to create a randomized environment!
+
+### Reference
+If you find this work useful in your research, please cite:
+```
+TODO
+```
