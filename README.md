@@ -81,10 +81,13 @@ This functions randomizes the intensity and the orientation of the light.
 ### Reference
 If you find this work useful in your research, please cite:
 ```
-@article{felicioni2023vision,
-  title={Vision-based Topological Localization for MAVs},
-  author={Felicioni, Simone and Rizzo, Biagio Maria and Tortorici, Claudio and Costante, Gabriele},
-  journal={IEEE Robotics and Automation Letters},
-  year={2023}
-}
+@article{felicioni2024vision,
+author={Felicioni, Simone and Rizzo, Biagio Maria and Tortorici, Claudio and Costante, Gabriele},
+journal={IEEE Robotics and Automation Letters},
+title={Vision-Based Topological Localization for MAVs},
+year={2024},
+volume={9},
+number={2},
+pages={1158-1165},
+doi={10.1109/LRA.2023.3341758}}
 ```
